@@ -5,7 +5,7 @@ using System.Text;
 
 namespace StabilityKnockdowns
 {
-    public class Class1
+    public class InitClass
     {
     }
 }
