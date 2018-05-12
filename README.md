@@ -5,7 +5,7 @@ If an attack causes a Mech to experience stability damage 25% or more past their
 
 # Installation Instructions
 
-1. Install the Battletech Mod Loader if you don't have it yet. Can be found here: https://github.com/Mpstark/BattleTechModLoader/releases/tag/v0.1-alpha
+1. Install the Battletech Mod Loader if you don't have it yet. Can be found here: https://github.com/Mpstark/BattleTechModLoader/releases/
 
 2. Download latest release.
 
